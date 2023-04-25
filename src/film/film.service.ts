@@ -28,6 +28,7 @@ export class FilmService {
         const newFilm = await this.filmRepository.create(dto);
         await newFilm.$set('actors', actorsId);
         const countriesId = await this.countriesService.getCountries(dto.countries.split(','))
+        //будет ошибка я получил объекты, а не id
         await newFilm.$set('countries', countriesId);
         const genreId = await  this.genreService.getGenre(dto.genre.split(','));
         await newFilm.$set('genre', genreId);
