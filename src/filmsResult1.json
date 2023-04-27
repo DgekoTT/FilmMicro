@@ -1,0 +1,729 @@
+[{
+    "kinopoiskId": 5260016,
+    "imdbId": null,
+    "nameRu": "Попкульт",
+    "nameEn": null,
+    "nameOriginal": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5260016.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5260016.jpg",
+    "coverUrl": null,
+    "logoUrl": null,
+    "reviewsCount": 1,
+    "ratingGoodReview": 100,
+    "ratingGoodReviewVoteCount": 1,
+    "ratingKinopoisk": 9.5,
+    "ratingKinopoiskVoteCount": 6285,
+    "ratingImdb": null,
+    "ratingImdbVoteCount": 0,
+    "ratingFilmCritics": null,
+    "ratingFilmCriticsVoteCount": 0,
+    "ratingAwait": null,
+    "ratingAwaitCount": 0,
+    "ratingRfCritics": null,
+    "ratingRfCriticsVoteCount": 0,
+    "webUrl": "https://www.kinopoisk.ru/film/5260016/",
+    "year": 2022,
+    "filmLength": 90,
+    "slogan": null,
+    "description": "«Попкульт» — это проект на стыке ностальгии и любви к массовой культуре. В шоу, которое выходит на YouTube-канале «sndk», авторы разбирают прошлое на атомы через призму игр, анимации, кино, комиксов и технологий, чтобы понять, как формировалась современная индустрия развлечений. Каждый выпуск посвящён одному году и его релизам, которые повлияли на развитие поп-культуры.",
+    "shortDescription": null,
+    "editorAnnotation": null,
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "FILM",
+    "ratingMpaa": null,
+    "ratingAgeLimits": null,
+    "countries": [
+        {
+            "country": "Россия"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "документальный"
+        }
+    ],
+    "startYear": null,
+    "endYear": null,
+    "serial": false,
+    "shortFilm": false,
+    "completed": false,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-04-18T08:29:19.872518"
+},{
+    "kinopoiskId": 1252447,
+    "imdbId": "tt9257638",
+    "nameRu": "Лорды раздевалки",
+    "nameEn": null,
+    "nameOriginal": "Lords of the Lockerroom",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1252447.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1252447.jpg",
+    "coverUrl": null,
+    "logoUrl": null,
+    "reviewsCount": 2,
+    "ratingGoodReview": 100,
+    "ratingGoodReviewVoteCount": 2,
+    "ratingKinopoisk": 9.4,
+    "ratingKinopoiskVoteCount": 4445,
+    "ratingImdb": 9.2,
+    "ratingImdbVoteCount": 72,
+    "ratingFilmCritics": null,
+    "ratingFilmCriticsVoteCount": 0,
+    "ratingAwait": null,
+    "ratingAwaitCount": 0,
+    "ratingRfCritics": null,
+    "ratingRfCriticsVoteCount": 0,
+    "webUrl": "https://www.kinopoisk.ru/film/1252447/",
+    "year": 1999,
+    "filmLength": 105,
+    "slogan": null,
+    "description": null,
+    "shortDescription": null,
+    "editorAnnotation": null,
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "VIDEO",
+    "ratingMpaa": null,
+    "ratingAgeLimits": "age18",
+    "countries": [
+        {
+            "country": "США"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "спорт"
+        },
+        {
+            "genre": "для взрослых"
+        }
+    ],
+    "startYear": null,
+    "endYear": null,
+    "serial": false,
+    "shortFilm": false,
+    "completed": false,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-04-17T02:34:01.203404"
+},{
+    "kinopoiskId": 962472,
+    "imdbId": "tt5396486",
+    "nameRu": "Hot Wheels. За гранью воображения",
+    "nameEn": null,
+    "nameOriginal": "Team Hot Wheels: The Skills to Thrill",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/962472.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/962472.jpg",
+    "coverUrl": "https://avatars.mds.yandex.net/get-ott/212840/2a0000017d75c88e454b6d8887311c9f5e81/orig",
+    "logoUrl": "https://avatars.mds.yandex.net/get-ott/1672343/2a0000017d75c87d8d034373962cca26e09c/orig",
+    "reviewsCount": 1,
+    "ratingGoodReview": null,
+    "ratingGoodReviewVoteCount": 0,
+    "ratingKinopoisk": 9.3,
+    "ratingKinopoiskVoteCount": 12779,
+    "ratingImdb": 7.2,
+    "ratingImdbVoteCount": 37,
+    "ratingFilmCritics": null,
+    "ratingFilmCriticsVoteCount": 0,
+    "ratingAwait": null,
+    "ratingAwaitCount": 0,
+    "ratingRfCritics": null,
+    "ratingRfCriticsVoteCount": 0,
+    "webUrl": "https://www.kinopoisk.ru/film/962472/",
+    "year": 2015,
+    "filmLength": 45,
+    "slogan": null,
+    "description": "В Хот Вилс появляется загадочный новый житель по имени Гарри. Он демонстрирует изобретение, которое может решить все дорожные проблемы. Новый дистанционно-управляемый радиокомплекс способен лишить жителей города всех забот и хлопот! Не все друзья уверены, что Гарри можно доверять… Оказывается, что у парнишки есть один секрет.",
+    "shortDescription": "Мальчик помогает гонщикам остановить своего злого брата-изобретателя. Драйвовые приключения в городке Хот Вилс",
+    "editorAnnotation": null,
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "FILM",
+    "ratingMpaa": null,
+    "ratingAgeLimits": "age6",
+    "countries": [
+        {
+            "country": "США"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "мультфильм"
+        },
+        {
+            "genre": "детский"
+        }
+    ],
+    "startYear": null,
+    "endYear": null,
+    "serial": false,
+    "shortFilm": false,
+    "completed": false,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-04-18T00:05:07.837159"
+},{
+    "kinopoiskId": 1309325,
+    "imdbId": null,
+    "nameRu": "Космос",
+    "nameEn": null,
+    "nameOriginal": "",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1309325.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1309325.jpg",
+    "coverUrl": "https://avatars.mds.yandex.net/get-ott/1534341/2a0000017c077cf0a392b2072665c393be71/orig",
+    "logoUrl": null,
+    "reviewsCount": 0,
+    "ratingGoodReview": null,
+    "ratingGoodReviewVoteCount": 0,
+    "ratingKinopoisk": 9.3,
+    "ratingKinopoiskVoteCount": 5470,
+    "ratingImdb": null,
+    "ratingImdbVoteCount": 0,
+    "ratingFilmCritics": null,
+    "ratingFilmCriticsVoteCount": 0,
+    "ratingAwait": null,
+    "ratingAwaitCount": 59,
+    "ratingRfCritics": null,
+    "ratingRfCriticsVoteCount": 0,
+    "webUrl": "https://www.kinopoisk.ru/film/1309325/",
+    "year": 2019,
+    "filmLength": null,
+    "slogan": null,
+    "description": "Астрофизик Нил Деграсс Тайсон встает за штурвал своего «Корабля воображения» и отправляется в путешествие по космосу, продолжив то, на чём остановился Карл Саган несколько десятилетий назад.",
+    "shortDescription": "Нил Деграсс Тайсон отправляется в мысленное путешествие к звездам. Продолжение культового шоу Карла Сагана",
+    "editorAnnotation": null,
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "TV_SERIES",
+    "ratingMpaa": null,
+    "ratingAgeLimits": "age18",
+    "countries": [
+        {
+            "country": "США"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "документальный"
+        }
+    ],
+    "startYear": 2019,
+    "endYear": null,
+    "serial": true,
+    "shortFilm": false,
+    "completed": false,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-04-17T13:55:11.72501"
+},{
+    "kinopoiskId": 1072974,
+    "imdbId": "tt13535142",
+    "nameRu": "Герои Энвелла",
+    "nameEn": null,
+    "nameOriginal": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1072974.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1072974.jpg",
+    "coverUrl": "https://avatars.mds.yandex.net/get-ott/1534341/2a000001847ac651d884267fc79e2af3ec3f/orig",
+    "logoUrl": "https://avatars.mds.yandex.net/get-ott/1531675/2a000001795cfd5fb90f118383136f2af4ac/orig",
+    "reviewsCount": 6,
+    "ratingGoodReview": 58.3,
+    "ratingGoodReviewVoteCount": 2,
+    "ratingKinopoisk": 9.3,
+    "ratingKinopoiskVoteCount": 34606,
+    "ratingImdb": null,
+    "ratingImdbVoteCount": 0,
+    "ratingFilmCritics": null,
+    "ratingFilmCriticsVoteCount": 0,
+    "ratingAwait": null,
+    "ratingAwaitCount": 14,
+    "ratingRfCritics": null,
+    "ratingRfCriticsVoteCount": 0,
+    "webUrl": "https://www.kinopoisk.ru/film/1072974/",
+    "year": 2017,
+    "filmLength": 11,
+    "slogan": "Добро пожаловать в виртуальный мир",
+    "description": "История о четырех геймерах, которые нашли необычный ноутбук, оказавшийся порталом в мир игры «Герои Энвелла». Здесь все реально: и сам город, и его жители, и опасности, поджидающие на каждом шагу. В первом сезоне герои проходят игру и в финале сражаются с ее главным злодеем — Моргартом, который хочет вырваться в реальный мир. В продолжении сериала повзрослевшие ребята пытаются справиться с личными проблемами, но неожиданно из игры приходит сигнал о помощи. Арт, Кира, Вик и Фил возвращаются в мир Энвелла и встречают старых знакомых.",
+    "shortDescription": "Школьники-геймеры вступают в схватку с виртуальным злом. Хитовый мультсериал от российской студии «Паровоз»",
+    "editorAnnotation": null,
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "TV_SERIES",
+    "ratingMpaa": null,
+    "ratingAgeLimits": "age6",
+    "countries": [
+        {
+            "country": "Россия"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "фантастика"
+        },
+        {
+            "genre": "мультфильм"
+        },
+        {
+            "genre": "детский"
+        }
+    ],
+    "startYear": 2017,
+    "endYear": 2021,
+    "serial": true,
+    "shortFilm": false,
+    "completed": true,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-04-18T11:45:15.203693"
+},{
+    "kinopoiskId": 1003587,
+    "imdbId": null,
+    "nameRu": "Гамильтон",
+    "nameEn": null,
+    "nameOriginal": "Hamilton's America",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1003587.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1003587.jpg",
+    "coverUrl": null,
+    "logoUrl": null,
+    "reviewsCount": 4,
+    "ratingGoodReview": 100,
+    "ratingGoodReviewVoteCount": 4,
+    "ratingKinopoisk": 9.3,
+    "ratingKinopoiskVoteCount": 2143,
+    "ratingImdb": 8.3,
+    "ratingImdbVoteCount": 1162,
+    "ratingFilmCritics": 7.6,
+    "ratingFilmCriticsVoteCount": 13,
+    "ratingAwait": null,
+    "ratingAwaitCount": 0,
+    "ratingRfCritics": null,
+    "ratingRfCriticsVoteCount": 0,
+    "webUrl": "https://www.kinopoisk.ru/film/1003587/",
+    "year": 2016,
+    "filmLength": 150,
+    "slogan": null,
+    "description": "Рассказ о жизни американского государственного и политического деятеля Александра Гамильтона.",
+    "shortDescription": null,
+    "editorAnnotation": null,
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "FILM",
+    "ratingMpaa": null,
+    "ratingAgeLimits": null,
+    "countries": [
+        {
+            "country": "США"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "биография"
+        },
+        {
+            "genre": "мюзикл"
+        }
+    ],
+    "startYear": null,
+    "endYear": null,
+    "serial": false,
+    "shortFilm": false,
+    "completed": false,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-03-28T06:40:55.005907"
+},{
+    "kinopoiskId": 77044,
+    "imdbId": "tt0108778",
+    "nameRu": "Друзья",
+    "nameEn": null,
+    "nameOriginal": "Friends",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/77044.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/77044.jpg",
+    "coverUrl": "https://avatars.mds.yandex.net/get-ott/2439731/2a0000017c07b071dc390e4aeac321620d7f/orig",
+    "logoUrl": "https://avatars.mds.yandex.net/get-ott/224348/2a0000018030bc50f4eaebeb776ebeb26b87/orig",
+    "reviewsCount": 342,
+    "ratingGoodReview": 96.1,
+    "ratingGoodReviewVoteCount": 307,
+    "ratingKinopoisk": 9.2,
+    "ratingKinopoiskVoteCount": 482061,
+    "ratingImdb": 8.9,
+    "ratingImdbVoteCount": 1016451,
+    "ratingFilmCritics": null,
+    "ratingFilmCriticsVoteCount": 0,
+    "ratingAwait": null,
+    "ratingAwaitCount": 5,
+    "ratingRfCritics": null,
+    "ratingRfCriticsVoteCount": 0,
+    "webUrl": "https://www.kinopoisk.ru/film/77044/",
+    "year": 1994,
+    "filmLength": 22,
+    "slogan": "Everybody needs Friends!",
+    "description": "Шестеро друзей – Рейчел, Моника, Фиби, Джоуи, Чендлер и Росс – живут по соседству, вместе убивают время, делятся секретами и иногда очень сильно влюбляются.",
+    "shortDescription": "Шестеро друзей, две квартиры и много юмора. Ситком, который вошел в культурный код не одного поколения",
+    "editorAnnotation": "",
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "TV_SERIES",
+    "ratingMpaa": null,
+    "ratingAgeLimits": "age16",
+    "countries": [
+        {
+            "country": "США"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "мелодрама"
+        },
+        {
+            "genre": "комедия"
+        }
+    ],
+    "startYear": 1994,
+    "endYear": 2004,
+    "serial": true,
+    "shortFilm": false,
+    "completed": true,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-03-30T22:17:33.769778"
+},{
+    "kinopoiskId": 952236,
+    "imdbId": "tt5223716",
+    "nameRu": "Hot Wheels. Мегатрасса",
+    "nameEn": null,
+    "nameOriginal": "Team Hot Wheels: Build the Epic Race",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/952236.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/952236.jpg",
+    "coverUrl": "https://avatars.mds.yandex.net/get-ott/1531675/2a0000017d75c6d85fb0cb748f52bc5134f7/orig",
+    "logoUrl": "https://avatars.mds.yandex.net/get-ott/2419418/2a0000017d75c75129e1c47edd7387cf8b39/orig",
+    "reviewsCount": 0,
+    "ratingGoodReview": null,
+    "ratingGoodReviewVoteCount": 0,
+    "ratingKinopoisk": 9.2,
+    "ratingKinopoiskVoteCount": 16173,
+    "ratingImdb": 6.1,
+    "ratingImdbVoteCount": 48,
+    "ratingFilmCritics": null,
+    "ratingFilmCriticsVoteCount": 0,
+    "ratingAwait": null,
+    "ratingAwaitCount": 0,
+    "ratingRfCritics": null,
+    "ratingRfCriticsVoteCount": 0,
+    "webUrl": "https://www.kinopoisk.ru/film/952236/",
+    "year": 2015,
+    "filmLength": 45,
+    "slogan": null,
+    "description": "Герои команды Хот Вилс построили для жителей города невероятную Мегатрассу для ежегодных городских Мегагонок. Но не обошлось без форс-мажора - на город напали дорожные пираты! Друзьям придется приложить огромные усилия, чтобы освободить Уайта и спасти жителей города от катастрофы.",
+    "shortDescription": "Друзья-гонщики сталкиваются с бесшабашной дорожной бандой. Остросюжетный мультфильм о пользе командной работы",
+    "editorAnnotation": null,
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "FILM",
+    "ratingMpaa": null,
+    "ratingAgeLimits": "age6",
+    "countries": [
+        {
+            "country": "США"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "мультфильм"
+        },
+        {
+            "genre": "детский"
+        }
+    ],
+    "startYear": null,
+    "endYear": null,
+    "serial": false,
+    "shortFilm": false,
+    "completed": false,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-04-18T10:13:40.442741"
+},{
+    "kinopoiskId": 674243,
+    "imdbId": null,
+    "nameRu": "Счастливые люди",
+    "nameEn": null,
+    "nameOriginal": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/674243.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/674243.jpg",
+    "coverUrl": null,
+    "logoUrl": null,
+    "reviewsCount": 14,
+    "ratingGoodReview": 78.6,
+    "ratingGoodReviewVoteCount": 9,
+    "ratingKinopoisk": 9.2,
+    "ratingKinopoiskVoteCount": 10162,
+    "ratingImdb": 8.8,
+    "ratingImdbVoteCount": 133,
+    "ratingFilmCritics": null,
+    "ratingFilmCriticsVoteCount": 0,
+    "ratingAwait": null,
+    "ratingAwaitCount": 0,
+    "ratingRfCritics": null,
+    "ratingRfCriticsVoteCount": 0,
+    "webUrl": "https://www.kinopoisk.ru/film/674243/",
+    "year": 2008,
+    "filmLength": 55,
+    "slogan": null,
+    "description": "Документальный фильм о трудах и днях охотников и их семей из посёлка Бахта в среднем течении реки Енисей в течение целого года.",
+    "shortDescription": null,
+    "editorAnnotation": null,
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "MINI_SERIES",
+    "ratingMpaa": null,
+    "ratingAgeLimits": null,
+    "countries": [
+        {
+            "country": "Россия"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "документальный"
+        }
+    ],
+    "startYear": 2008,
+    "endYear": 2008,
+    "serial": true,
+    "shortFilm": false,
+    "completed": true,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-03-28T01:16:06.208797"
+},{
+    "kinopoiskId": 351771,
+    "imdbId": "tt0276902",
+    "nameRu": null,
+    "nameEn": null,
+    "nameOriginal": "Depeche Mode: Devotional",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/351771.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/351771.jpg",
+    "coverUrl": null,
+    "logoUrl": null,
+    "reviewsCount": 9,
+    "ratingGoodReview": 100,
+    "ratingGoodReviewVoteCount": 9,
+    "ratingKinopoisk": 9.2,
+    "ratingKinopoiskVoteCount": 1469,
+    "ratingImdb": 9.1,
+    "ratingImdbVoteCount": 984,
+    "ratingFilmCritics": null,
+    "ratingFilmCriticsVoteCount": 0,
+    "ratingAwait": null,
+    "ratingAwaitCount": 0,
+    "ratingRfCritics": null,
+    "ratingRfCriticsVoteCount": 0,
+    "webUrl": "https://www.kinopoisk.ru/film/351771/",
+    "year": 1993,
+    "filmLength": 93,
+    "slogan": "A Performance Filmed By Anton Corbijn",
+    "description": "Выступление Depeche Mode 1993-го года.",
+    "shortDescription": null,
+    "editorAnnotation": null,
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "VIDEO",
+    "ratingMpaa": null,
+    "ratingAgeLimits": null,
+    "countries": [
+        {
+            "country": "Великобритания"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "музыка"
+        },
+        {
+            "genre": "документальный"
+        },
+        {
+            "genre": "концерт"
+        }
+    ],
+    "startYear": null,
+    "endYear": null,
+    "serial": false,
+    "shortFilm": false,
+    "completed": false,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-04-18T05:47:28.169516"
+},{
+    "kinopoiskId": 1007472,
+    "imdbId": null,
+    "nameRu": "Планета Земля 2",
+    "nameEn": null,
+    "nameOriginal": "Planet Earth II",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1007472.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1007472.jpg",
+    "coverUrl": "https://avatars.mds.yandex.net/get-ott/1672343/2a0000017c0786b230ff61a06be6e250a447/orig",
+    "logoUrl": "https://avatars.mds.yandex.net/get-ott/374297/2a000001705c909e2e32230ad1c458bd356c/orig",
+    "reviewsCount": 3,
+    "ratingGoodReview": 100,
+    "ratingGoodReviewVoteCount": 3,
+    "ratingKinopoisk": 9.2,
+    "ratingKinopoiskVoteCount": 8234,
+    "ratingImdb": 9.5,
+    "ratingImdbVoteCount": 149061,
+    "ratingFilmCritics": null,
+    "ratingFilmCriticsVoteCount": 0,
+    "ratingAwait": null,
+    "ratingAwaitCount": 12,
+    "ratingRfCritics": null,
+    "ratingRfCriticsVoteCount": 0,
+    "webUrl": "https://www.kinopoisk.ru/film/1007472/",
+    "year": 2016,
+    "filmLength": null,
+    "slogan": "A new world revealed",
+    "description": "Дэвид Аттенборо демонстрирует невероятные по красоте пейзажи, заповедные и малоизученные уголки Земли.",
+    "shortDescription": null,
+    "editorAnnotation": null,
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "MINI_SERIES",
+    "ratingMpaa": null,
+    "ratingAgeLimits": null,
+    "countries": [
+        {
+            "country": "США"
+        },
+        {
+            "country": "Франция"
+        },
+        {
+            "country": "Великобритания"
+        },
+        {
+            "country": "Германия"
+        },
+        {
+            "country": "Китай"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "документальный"
+        }
+    ],
+    "startYear": 2016,
+    "endYear": 2016,
+    "serial": true,
+    "shortFilm": false,
+    "completed": true,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-04-17T20:41:25.700814"
+},{
+    "kinopoiskId": 2500772,
+    "imdbId": null,
+    "nameRu": "Жизнь человека. Последнее интервью",
+    "nameEn": null,
+    "nameOriginal": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2500772.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2500772.jpg",
+    "coverUrl": "https://avatars.mds.yandex.net/get-ott/224348/2a0000017c0743abc8e72dc416050fdf245c/orig",
+    "logoUrl": "https://avatars.mds.yandex.net/get-ott/1672343/2a000001769bfc09f6996db05ee8f1da2be1/orig",
+    "reviewsCount": 0,
+    "ratingGoodReview": null,
+    "ratingGoodReviewVoteCount": 0,
+    "ratingKinopoisk": 9.2,
+    "ratingKinopoiskVoteCount": 12356,
+    "ratingImdb": null,
+    "ratingImdbVoteCount": 0,
+    "ratingFilmCritics": null,
+    "ratingFilmCriticsVoteCount": 0,
+    "ratingAwait": null,
+    "ratingAwaitCount": 46,
+    "ratingRfCritics": null,
+    "ratingRfCriticsVoteCount": 0,
+    "webUrl": "https://www.kinopoisk.ru/film/2500772/",
+    "year": 2020,
+    "filmLength": 88,
+    "slogan": null,
+    "description": "В марте 2018 года один из лучших хирургов-онкологов страны Андрей Павленко узнал, что у него рак желудка агрессивной формы. Как онколог, Андрей понимал, что скорее всего умрет, но решил лечиться и запустить в России публичный медиапроект «Жизнь человека» о том, как принять диагноз и бороться с онкологическими заболеваниями, что нужно делать и где искать помощь.\n\nВ ноябре 2019 года Андрей дал последнее интервью команде проекта «Жизнь человека». Этот фильм — своеобразное завещание Андрея. Послание всем, кто следил за его судьбой, онкологическим пациентам, их родственникам, и врачам.",
+    "shortDescription": "Как принять диагноз и продолжить борьбу с раком. Документальное «завещание» хирурга-онколога Андрея Павленко",
+    "editorAnnotation": null,
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "FILM",
+    "ratingMpaa": null,
+    "ratingAgeLimits": "age16",
+    "countries": [
+        {
+            "country": "Россия"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "документальный"
+        }
+    ],
+    "startYear": null,
+    "endYear": null,
+    "serial": false,
+    "shortFilm": false,
+    "completed": false,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-04-18T02:32:18.111634"
+},{
+    "kinopoiskId": 972889,
+    "imdbId": "tt4926348",
+    "nameRu": "BadComedian",
+    "nameEn": null,
+    "nameOriginal": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/972889.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/972889.jpg",
+    "coverUrl": null,
+    "logoUrl": null,
+    "reviewsCount": 37,
+    "ratingGoodReview": 69.4,
+    "ratingGoodReviewVoteCount": 24,
+    "ratingKinopoisk": 9.2,
+    "ratingKinopoiskVoteCount": 34853,
+    "ratingImdb": 7.6,
+    "ratingImdbVoteCount": 853,
+    "ratingFilmCritics": null,
+    "ratingFilmCriticsVoteCount": 0,
+    "ratingAwait": null,
+    "ratingAwaitCount": 0,
+    "ratingRfCritics": null,
+    "ratingRfCriticsVoteCount": 0,
+    "webUrl": "https://www.kinopoisk.ru/film/972889/",
+    "year": 2011,
+    "filmLength": null,
+    "slogan": null,
+    "description": "Юмористическое шоу, высмеивающее плохое кино. От российских «шедевров», до американской клюквы. А также серьёзные обзоры и переводы.",
+    "shortDescription": null,
+    "editorAnnotation": null,
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "TV_SERIES",
+    "ratingMpaa": null,
+    "ratingAgeLimits": "age18",
+    "countries": [
+        {
+            "country": "Россия"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "комедия"
+        }
+    ],
+    "startYear": 2011,
+    "endYear": null,
+    "serial": true,
+    "shortFilm": false,
+    "completed": false,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-03-28T07:37:53.58781"
+}]

@@ -1,0 +1,378 @@
+{
+  "kinopoiskId": "5260016",
+  "info": [{
+    "staffId": 4395387,
+    "nameRu": "Дмитрий Сыендук",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/4395387.jpg",
+    "professionText": "Режиссеры",
+    "professionKey": "DIRECTOR"
+  }, {
+    "staffId": 5069284,
+    "nameRu": "Анна Устюжанинова",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/5069284.jpg",
+    "professionText": "Продюсеры",
+    "professionKey": "PRODUCER"
+  }, {
+    "staffId": 5446382,
+    "nameRu": "Егор Лоскутов",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/5446382.jpg",
+    "professionText": "Продюсеры",
+    "professionKey": "PRODUCER"
+  }, {
+    "staffId": 7108514,
+    "nameRu": "Владислав Ловейко",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108514.jpg",
+    "professionText": "Продюсеры",
+    "professionKey": "PRODUCER"
+  }, {
+    "staffId": 4395387,
+    "nameRu": "Дмитрий Сыендук",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/4395387.jpg",
+    "professionText": "Сценаристы",
+    "professionKey": "WRITER"
+  }, {
+    "staffId": 5069284,
+    "nameRu": "Анна Устюжанинова",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/5069284.jpg",
+    "professionText": "Сценаристы",
+    "professionKey": "WRITER"
+  }, {
+    "staffId": 3232640,
+    "nameRu": "Антон Паули",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/3232640.jpg",
+    "professionText": "Сценаристы",
+    "professionKey": "WRITER"
+  }, {
+    "staffId": 7108507,
+    "nameRu": "Иван Кривалов",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108507.jpg",
+    "professionText": "Сценаристы",
+    "professionKey": "WRITER"
+  }, {
+    "staffId": 7108508,
+    "nameRu": "Олег Сарыч",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108508.jpg",
+    "professionText": "Сценаристы",
+    "professionKey": "WRITER"
+  }, {
+    "staffId": 7108509,
+    "nameRu": "Александр Куликов",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108509.jpg",
+    "professionText": "Сценаристы",
+    "professionKey": "WRITER"
+  }, {
+    "staffId": 7108510,
+    "nameRu": "Артём Нечаев",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108510.jpg",
+    "professionText": "Сценаристы",
+    "professionKey": "WRITER"
+  }, {
+    "staffId": 7108511,
+    "nameRu": "Владислав Псайдаков",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108511.jpg",
+    "professionText": "Сценаристы",
+    "professionKey": "WRITER"
+  }, {
+    "staffId": 7108512,
+    "nameRu": "Алексей Зубраг",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108512.jpg",
+    "professionText": "Сценаристы",
+    "professionKey": "WRITER"
+  }, {
+    "staffId": 7108516,
+    "nameRu": "Григорий Гефальшт",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108516.jpg",
+    "professionText": "Монтажеры",
+    "professionKey": "EDITOR"
+  }, {
+    "staffId": 7108517,
+    "nameRu": "Роман Бутербродер",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108517.jpg",
+    "professionText": "Монтажеры",
+    "professionKey": "EDITOR"
+  }, {
+    "staffId": 7108520,
+    "nameRu": "Максим Аксёнов",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108520.jpg",
+    "professionText": "Монтажеры",
+    "professionKey": "EDITOR"
+  }, {
+    "staffId": 7108521,
+    "nameRu": "Ярослав Смолев ",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108521.jpg",
+    "professionText": "Монтажеры",
+    "professionKey": "EDITOR"
+  }, {
+    "staffId": 7108522,
+    "nameRu": "Александр T3renz",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108522.jpg",
+    "professionText": "Монтажеры",
+    "professionKey": "EDITOR"
+  }, {
+    "staffId": 7108523,
+    "nameRu": "Костя Эверлейн",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108523.jpg",
+    "professionText": "Монтажеры",
+    "professionKey": "EDITOR"
+  }, {
+    "staffId": 7108524,
+    "nameRu": "Фёдор Вантуз",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108524.jpg",
+    "professionText": "Монтажеры",
+    "professionKey": "EDITOR"
+  }, {
+    "staffId": 7108525,
+    "nameRu": "Исаак Слимушкин",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108525.jpg",
+    "professionText": "Монтажеры",
+    "professionKey": "EDITOR"
+  }, {
+    "staffId": 7108527,
+    "nameRu": "Владимир Бодюл",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108527.jpg",
+    "professionText": "Монтажеры",
+    "professionKey": "EDITOR"
+  }, {
+    "staffId": 7108526,
+    "nameRu": "Егор Adeq",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/7108526.jpg",
+    "professionText": "Монтажеры",
+    "professionKey": "EDITOR"
+  }]
+}, {
+  "kinopoiskId": "1252447",
+  "info": [{
+    "staffId": 3978602,
+    "nameRu": "Мэттью Мур",
+    "nameEn": "Matthew Moore",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/3978602.jpg",
+    "professionText": "Режиссеры",
+    "professionKey": "DIRECTOR"
+  }, {
+    "staffId": 1245312,
+    "nameRu": "Ник Стил",
+    "nameEn": "Nick Steel",
+    "description": "Wrestler (в титрах: Nick Steel)",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/1245312.jpg",
+    "professionText": "Актеры",
+    "professionKey": "ACTOR"
+  }, {
+    "staffId": 3981260,
+    "nameRu": "Ван Даркхолм",
+    "nameEn": "Van Darkholme",
+    "description": "Leatherman",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/3981260.jpg",
+    "professionText": "Актеры",
+    "professionKey": "ACTOR"
+  }, {
+    "staffId": 3996077,
+    "nameRu": "Билли Херрингтон",
+    "nameEn": "Billy Herrington",
+    "description": "Wrestler",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/3996077.jpg",
+    "professionText": "Актеры",
+    "professionKey": "ACTOR"
+  }, {
+    "staffId": 5928959,
+    "nameRu": "Рон Секстон",
+    "nameEn": "Ron Sexton",
+    "description": "исполнительный продюсер",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/5928959.jpg",
+    "professionText": "Продюсеры",
+    "professionKey": "PRODUCER"
+  }, {
+    "staffId": 5928956,
+    "nameRu": "Бэй Стивенс",
+    "nameEn": "Bay Stevens",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/5928956.jpg",
+    "professionText": "Операторы",
+    "professionKey": "OPERATOR"
+  }]
+} {
+  "kinopoiskId": "962472",
+  "info": [{
+    "staffId": 1804374,
+    "nameRu": "Мэтт Дэннер",
+    "nameEn": "Matt Danner",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/1804374.jpg",
+    "professionText": "Режиссеры",
+    "professionKey": "DIRECTOR"
+  }, {
+    "staffId": 111280,
+    "nameRu": "Бен Дискин",
+    "nameEn": "Ben Diskin",
+    "description": "Brandon, озвучка",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/111280.jpg",
+    "professionText": "Актеры",
+    "professionKey": "ACTOR"
+  }, {
+    "staffId": 39055,
+    "nameRu": "Джессика Ги",
+    "nameEn": "Jessica Gee-George",
+    "description": "Rhett's Mom / Gage's Teacher, озвучка (в титрах: Jessica Gee)",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/39055.jpg",
+    "professionText": "Актеры",
+    "professionKey": "ACTOR"
+  }, {
+    "staffId": 262573,
+    "nameRu": "Грант Джордж",
+    "nameEn": "Grant George",
+    "description": "Gage, озвучка",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/262573.jpg",
+    "professionText": "Актеры",
+    "professionKey": "ACTOR"
+  }, {
+    "staffId": 6373,
+    "nameRu": "Дэвид Лодж",
+    "nameEn": "David Lodge",
+    "description": "Rhett, озвучка",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/6373.jpg",
+    "professionText": "Актеры",
+    "professionKey": "ACTOR"
+  }, {
+    "staffId": 24474,
+    "nameRu": "Николас Ройе",
+    "nameEn": "Nicolas Roye",
+    "description": "Wyatt, озвучка",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/24474.jpg",
+    "professionText": "Актеры",
+    "professionKey": "ACTOR"
+  }, {
+    "staffId": 1219815,
+    "nameRu": "Фарук Тохид",
+    "nameEn": "Faruq Tauheed",
+    "description": "Larry, озвучка",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/1219815.jpg",
+    "professionText": "Актеры",
+    "professionKey": "ACTOR"
+  }, {
+    "staffId": 1046899,
+    "nameRu": "Маргарет М. Дин",
+    "nameEn": "Margaret M. Dean",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/1046899.jpg",
+    "professionText": "Продюсеры",
+    "professionKey": "PRODUCER"
+  }, {
+    "staffId": 4271518,
+    "nameRu": "Кимберли А. Смит",
+    "nameEn": "Kimberly A. Smith",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/4271518.jpg",
+    "professionText": "Продюсеры",
+    "professionKey": "PRODUCER"
+  }, {
+    "staffId": 1604859,
+    "nameRu": "Борис Токарев",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/1604859.jpg",
+    "professionText": "Режиссеры дубляжа",
+    "professionKey": "VOICE_DIRECTOR"
+  }, {
+    "staffId": 4274074,
+    "nameRu": "Дмитрий Шамшин",
+    "nameEn": "",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/4274074.jpg",
+    "professionText": "Переводчики",
+    "professionKey": "TRANSLATOR"
+  }, {
+    "staffId": 227504,
+    "nameRu": "Патрик Кейси",
+    "nameEn": "Pat Casey",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/227504.jpg",
+    "professionText": "Сценаристы",
+    "professionKey": "WRITER"
+  }, {
+    "staffId": 227505,
+    "nameRu": "Джош Миллер",
+    "nameEn": "Josh Miller",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/227505.jpg",
+    "professionText": "Сценаристы",
+    "professionKey": "WRITER"
+  }, {
+    "staffId": 928777,
+    "nameRu": "Бекки Нюбул",
+    "nameEn": "Rebecca Kneubuhl",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/928777.jpg",
+    "professionText": "Композиторы",
+    "professionKey": "COMPOSER"
+  }, {
+    "staffId": 2343050,
+    "nameRu": "Linus of Hollywood",
+    "nameEn": "Linus of Hollywood",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/2343050.jpg",
+    "professionText": "Композиторы",
+    "professionKey": "COMPOSER"
+  }, {
+    "staffId": 1117252,
+    "nameRu": "Гэбриел Манн",
+    "nameEn": "Gabriel Mann",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/1117252.jpg",
+    "professionText": "Композиторы",
+    "professionKey": "COMPOSER"
+  }, {
+    "staffId": 2948570,
+    "nameRu": "Эфраим Клейн",
+    "nameEn": "Efraim Klein",
+    "description": null,
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/actor_posters/kp/2948570.jpg",
+    "professionText": "Монтажеры",
+    "professionKey": "EDITOR"
+  }]
+}
